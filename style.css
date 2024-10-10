@@ -1,6 +1,7 @@
 body {
     background-color: #eee;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
 }
 
 main {
@@ -12,22 +13,29 @@ main {
 }
 
 header {
-
+    border: 2px solid #999;
+    height: 150px;
+    margin-bottom: 10px;
 }
 
 nav {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 section {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
+    padding: 20px;
 }
 
 aside {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 footer {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
