@@ -27,11 +27,15 @@ section {
     border: 2px solid #999;
     margin-bottom: 10px;
     padding: 20px;
+    width: 400px;
+    float: left;
 }
 
 aside {
     border: 2px solid #999;
     margin-bottom: 10px;
+    width: 152px;
+    float: right;
 }
 
 footer {
